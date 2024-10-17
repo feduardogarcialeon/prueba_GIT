@@ -1,1 +1,2 @@
 Este archivo se ha creado en el repositorio remoto github. Veamos si se añade en el repositorio local.
+AÑADIMOS CONTENIDO A ESTE ARCHIVO DESDE EL REPOSITORIO LOCAL.
